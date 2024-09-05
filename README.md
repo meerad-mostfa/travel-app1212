@@ -3,6 +3,12 @@
 
 A web application created to assist users in planning and managing their trips effectively. It combines various APIs to offer detailed travel information, such as weather forecasts, images, and additional resources.
 
+******************
+In order to run the web page 
+Enter the terminal page 
+Type NPM RUN START and it will give us the link 
+localhost:3000, then type the NPM RUN BUILD command, then the NPM RUN DEV command, which will give us a link to localhost:8080
+******************** 
 ## Features
 
 
